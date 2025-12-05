@@ -1,0 +1,643 @@
+[
+  {
+    "id": "3736",
+    "name": "Disco SSD 1TB Biwin NV7200 M.2",
+    "brand": "Biwin",
+    "price": 19.0,
+    "regular_price": 369.9,
+    "type": "STORAGE",
+    "url": "https://www.pcfactory.com.pe/producto/3736-biwin-disco-ssd-1tb-biwin-nv7200-m-2",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/3736/1_200.jpg?t=1763577657384",
+    "stock": "20 Unid.",
+    "scraped_at": "2025-11-23T21:13:56.209532",
+    "specs": {
+      "id": "3736",
+      "marca": "Biwin",
+      "tipo_de_almacenamiento": "Unidad de Estado Sólido",
+      "capacidad": "1TB",
+      "interfaz": "PCIe Gen4",
+      "factor_de_forma": "M.2"
+    },
+    "compatibility": {
+      "interface": "PCIe Gen4"
+    }
+  },
+  {
+    "id": "2756",
+    "name": "Disco SSD 1TB Corsair PRO XT PCIe Gen4 M.2 c/disipador de aluminio alto",
+    "brand": "Corsair",
+    "price": 31.0,
+    "regular_price": 649.9,
+    "type": "STORAGE",
+    "url": "https://www.pcfactory.com.pe/producto/2756-corsair-disco-ssd-1tb-corsair-pro-xt-pcie-gen4-m-2-c-disipador-de-aluminio-alto",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/2756/1_200.jpg?t=1763576704244",
+    "stock": "6 Unid.",
+    "scraped_at": "2025-11-23T21:13:56.209532",
+    "specs": {
+      "id": "2756",
+      "marca": "Corsair",
+      "tipo_de_almacenamiento": "Unidad de Estado Sólido",
+      "capacidad": "1TB",
+      "interfaz": "PCIe Gen4",
+      "accesorios": "Disipador de Calor",
+      "factor_de_forma": "M.2"
+    },
+    "compatibility": {
+      "interface": "PCIe Gen4"
+    }
+  },
+  {
+    "id": "3924",
+    "name": "Disco SSD 1TB Kingston Fury Renegade G5 PCIe 5.0 x4 M.2",
+    "brand": "Kingston FURY",
+    "price": 10.0,
+    "regular_price": 999.9,
+    "type": "STORAGE",
+    "url": "https://www.pcfactory.com.pe/producto/3924-kingston-fury-disco-ssd-1tb-kingston-fury-renegade-g5-pcie-5-0-x4-m-2",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/3924/1_200.jpg?t=1763577945713",
+    "stock": "9 Unid.",
+    "scraped_at": "2025-11-23T21:13:56.210532",
+    "specs": {
+      "id": "3924",
+      "marca": "Kingston FURY",
+      "tipo_de_almacenamiento": "Unidad de Estado Sólido",
+      "capacidad": "1TB",
+      "interfaz": "PCIe Gen5",
+      "factor_de_forma": "M.2"
+    },
+    "compatibility": {
+      "interface": "PCIe Gen5"
+    }
+  },
+  {
+    "id": "2257",
+    "name": "Disco SSD 1TB Kingston Fury Renegade PCIe 4.0 M.2 con disipador térmico para PC y PS5",
+    "brand": "Kingston FURY",
+    "price": 17.0,
+    "regular_price": 599.9,
+    "type": "STORAGE",
+    "url": "https://www.pcfactory.com.pe/producto/2257-kingston-fury-disco-ssd-1tb-kingston-fury-renegade-pcie-4-0-m-2-con-disipador-termico-para-pc-y-ps5",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/2257/1_200.jpg?t=1763576330197",
+    "stock": "15 Unid.",
+    "scraped_at": "2025-11-23T21:13:56.210532",
+    "specs": {
+      "id": "2257",
+      "marca": "Kingston FURY",
+      "tipo_de_almacenamiento": "Unidad de Estado Sólido",
+      "capacidad": "1TB",
+      "interfaz": "PCIe Gen4",
+      "accesorios": "Disipador de Calor",
+      "factor_de_forma": "M.2"
+    },
+    "compatibility": {
+      "interface": "PCIe Gen4"
+    }
+  },
+  {
+    "id": "4022",
+    "name": "Disco SSD 1TB Kingston NV3 M.2 2230 para laptops y consolas portátiles",
+    "brand": "Kingston",
+    "price": 9.0,
+    "regular_price": 329.9,
+    "type": "STORAGE",
+    "url": "https://www.pcfactory.com.pe/producto/4022-kingston-disco-ssd-1tb-kingston-nv3-m-2-2230-para-laptops-y-consolas-portatiles",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/4022/1_200.jpg?t=1756218946717",
+    "stock": "15 Unid.",
+    "scraped_at": "2025-11-23T21:13:56.211535",
+    "specs": {
+      "id": "4022",
+      "marca": "Kingston",
+      "tipo_de_almacenamiento": "Unidad de Estado Sólido",
+      "capacidad": "1TB",
+      "interfaz": "PCIe Gen4",
+      "factor_de_forma": "M.2"
+    },
+    "compatibility": {
+      "interface": "PCIe Gen4"
+    }
+  },
+  {
+    "id": "3080",
+    "name": "Disco SSD 1TB Kingston NV3 PCIe Gen4 M.2 Para PC y laptop",
+    "brand": "Kingston",
+    "price": 18.0,
+    "regular_price": 339.9,
+    "type": "STORAGE",
+    "url": "https://www.pcfactory.com.pe/producto/3080-kingston-disco-ssd-1tb-kingston-nv3-pcie-gen4-m-2-para-pc-y-laptop",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/3080/1_200.jpg?t=1763576991132",
+    "stock": "23 Unid.",
+    "scraped_at": "2025-11-23T21:13:56.211535",
+    "specs": {
+      "id": "3080",
+      "marca": "Kingston",
+      "vida_útil": "2,000,000 horas",
+      "tipo_de_almacenamiento": "Unidad de Estado Sólido",
+      "capacidad": "1TB",
+      "interfaz": "PCIe Gen4",
+      "accesorios": "No incluye",
+      "factor_de_forma": "M.2"
+    },
+    "compatibility": {
+      "interface": "PCIe Gen4"
+    }
+  },
+  {
+    "id": "1102",
+    "name": "Disco SSD 1TB WD Green 2.5\" SATA",
+    "brand": "WD",
+    "price": 13.0,
+    "regular_price": 309.9,
+    "type": "STORAGE",
+    "url": "https://www.pcfactory.com.pe/producto/1102-wd-disco-ssd-1tb-wd-green-2-5-sata",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/1102/1_200.jpg?t=1729698706502",
+    "stock": "24 Unid.",
+    "scraped_at": "2025-11-23T21:13:56.212531",
+    "specs": {
+      "id": "1102",
+      "marca": "WD",
+      "tipo_de_almacenamiento": "Unidad de Estado Sólido",
+      "capacidad": "1TB",
+      "interfaz": "SATA III",
+      "accesorios": "No incluye",
+      "factor_de_forma": "2.5\""
+    },
+    "compatibility": {
+      "interface": "SATA III"
+    }
+  },
+  {
+    "id": "2983",
+    "name": "Disco SSD 1TB WD Green SN350 PCIe Gen3 M.2 Para PC y laptop",
+    "brand": "WD",
+    "price": 22.0,
+    "regular_price": 359.9,
+    "type": "STORAGE",
+    "url": "https://www.pcfactory.com.pe/producto/2983-wd-disco-ssd-1tb-wd-green-sn350-pcie-gen3-m-2-para-pc-y-laptop",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/2983/1_200.jpg?t=1763576897008",
+    "stock": "20 Unid.",
+    "scraped_at": "2025-11-23T21:13:56.212531",
+    "specs": {
+      "id": "2983",
+      "marca": "WD",
+      "origen": "China",
+      "tipo_de_almacenamiento": "Unidad de Estado Sólido",
+      "capacidad": "1TB",
+      "interfaz": "PCIe Gen3",
+      "accesorios": "No incluye",
+      "factor_de_forma": "M.2"
+    },
+    "compatibility": {
+      "interface": "PCIe Gen3"
+    }
+  },
+  {
+    "id": "2965",
+    "name": "Disco SSD 250GB WD Green SN350 PCIe 3.0 M.2",
+    "brand": "WD",
+    "price": 6.0,
+    "regular_price": 159.9,
+    "type": "STORAGE",
+    "url": "https://www.pcfactory.com.pe/producto/2965-wd-disco-ssd-250gb-wd-green-sn350-pcie-3-0-m-2",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/2965/1_200.jpg?t=1738877002180",
+    "stock": "2 Unid.",
+    "scraped_at": "2025-11-23T21:13:56.212531",
+    "specs": {
+      "id": "2965",
+      "marca": "WD",
+      "capacidad": "250GB",
+      "interfaz": "PCIe Gen3",
+      "factor_de_forma": "M.2"
+    },
+    "compatibility": {
+      "interface": "PCIe Gen3"
+    }
+  },
+  {
+    "id": "3925",
+    "name": "Disco SSD 2TB Kingston Fury Renegade G5 PCIe 5.0 x4 M.2",
+    "brand": "Kingston FURY",
+    "price": 21.0,
+    "regular_price": 1399.9,
+    "type": "STORAGE",
+    "url": "https://www.pcfactory.com.pe/producto/3925-kingston-fury-disco-ssd-2tb-kingston-fury-renegade-g5-pcie-5-0-x4-m-2",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/3925/1_200.jpg?t=1763577947700",
+    "stock": "4 Unid.",
+    "scraped_at": "2025-11-23T21:13:56.213531",
+    "specs": {
+      "id": "3925",
+      "marca": "Kingston FURY",
+      "tipo_de_almacenamiento": "Unidad de Estado Sólido",
+      "capacidad": "2TB",
+      "interfaz": "PCIe Gen5",
+      "factor_de_forma": "M.2"
+    },
+    "compatibility": {
+      "interface": "PCIe Gen5"
+    }
+  },
+  {
+    "id": "4023",
+    "name": "Disco SSD 2TB Kingston NV3 M.2 2230 para laptops y consolas portátiles",
+    "brand": "Kingston",
+    "price": 8.0,
+    "regular_price": 629.9,
+    "type": "STORAGE",
+    "url": "https://www.pcfactory.com.pe/producto/4023-kingston-disco-ssd-2tb-kingston-nv3-m-2-2230-para-laptops-y-consolas-portatiles",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/4023/1_200.jpg?t=1762750830934",
+    "stock": "7 Unid.",
+    "scraped_at": "2025-11-23T21:13:56.213967",
+    "specs": {
+      "id": "4023",
+      "marca": "Kingston",
+      "tipo_de_almacenamiento": "Unidad de Estado Sólido",
+      "capacidad": "2TB",
+      "interfaz": "PCIe Gen4",
+      "factor_de_forma": "M.2"
+    },
+    "compatibility": {
+      "interface": "PCIe Gen4"
+    }
+  },
+  {
+    "id": "3079",
+    "name": "Disco SSD 2TB Kingston NV3 PCIe Gen4 M.2 Para PC y laptop",
+    "brand": "Kingston",
+    "price": 15.0,
+    "regular_price": 649.9,
+    "type": "STORAGE",
+    "url": "https://www.pcfactory.com.pe/producto/3079-kingston-disco-ssd-2tb-kingston-nv3-pcie-gen4-m-2-para-pc-y-laptop",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/3079/1_200.jpg?t=1763576989209",
+    "stock": "22 Unid.",
+    "scraped_at": "2025-11-23T21:13:56.213967",
+    "specs": {
+      "id": "3079",
+      "marca": "Kingston",
+      "tipo_de_almacenamiento": "Unidad de Estado Sólido",
+      "capacidad": "2TB",
+      "interfaz": "PCIe Gen4",
+      "accesorios": "No incluye",
+      "factor_de_forma": "M.2"
+    },
+    "compatibility": {
+      "interface": "PCIe Gen4"
+    }
+  },
+  {
+    "id": "4018",
+    "name": "Disco SSD 2TB Predator GM7000 NVME",
+    "brand": "PREDATOR",
+    "price": 13.0,
+    "regular_price": 799.9,
+    "type": "STORAGE",
+    "url": "https://www.pcfactory.com.pe/producto/4018-predator-disco-ssd-2tb-predator-gm7000-nvme",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/4018/1_200.jpg?t=1762750824707",
+    "stock": "5 Unid.",
+    "scraped_at": "2025-11-23T21:13:56.215079",
+    "specs": {
+      "id": "4018",
+      "marca": "PREDATOR",
+      "tipo_de_almacenamiento": "Unidad de Estado Sólido",
+      "capacidad": "2TB",
+      "interfaz": "PCIe Gen4",
+      "factor_de_forma": "M.2"
+    },
+    "compatibility": {
+      "interface": "PCIe Gen4"
+    }
+  },
+  {
+    "id": "1095",
+    "name": "Disco SSD 480GB Kingston A400 2.5\" SATA",
+    "brand": "Kingston",
+    "price": 14.0,
+    "regular_price": 219.9,
+    "type": "STORAGE",
+    "url": "https://www.pcfactory.com.pe/producto/1095-kingston-disco-ssd-480gb-kingston-a400-2-5-sata",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/1095/1_200.jpg?t=1743387174098",
+    "stock": "+30 Unid.",
+    "scraped_at": "2025-11-23T21:13:56.215079",
+    "specs": {
+      "id": "1095",
+      "marca": "Kingston",
+      "tipo_de_almacenamiento": "Unidad de Estado Sólido",
+      "capacidad": "480 GB",
+      "interfaz": "SATA III",
+      "accesorios": "No incluye",
+      "factor_de_forma": "2.5\""
+    },
+    "compatibility": {
+      "interface": "SATA III"
+    }
+  },
+  {
+    "id": "1097",
+    "name": "Disco SSD 480GB WD Green 2.5\" SATA",
+    "brand": "WD",
+    "price": 6.0,
+    "regular_price": 179.9,
+    "type": "STORAGE",
+    "url": "https://www.pcfactory.com.pe/producto/1097-wd-disco-ssd-480gb-wd-green-2-5-sata",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/1097/1_200.jpg?t=1729698697129",
+    "stock": "12 Unid.",
+    "scraped_at": "2025-11-23T21:13:56.216115",
+    "specs": {
+      "id": "1097",
+      "marca": "WD",
+      "tipo_de_almacenamiento": "Unidad de Estado Sólido",
+      "capacidad": "480 GB",
+      "interfaz": "SATA III",
+      "accesorios": "No incluye",
+      "factor_de_forma": "2.5\""
+    },
+    "compatibility": {
+      "interface": "SATA III"
+    }
+  },
+  {
+    "id": "2256",
+    "name": "Disco SSD 500GB Kingston Fury Renegade PCIe 4.0 M.2 con disipador térmico para PC, Laptop y PS5",
+    "brand": "Kingston FURY",
+    "price": 18.0,
+    "regular_price": 399.9,
+    "type": "STORAGE",
+    "url": "https://www.pcfactory.com.pe/producto/2256-kingston-fury-disco-ssd-500gb-kingston-fury-renegade-pcie-4-0-m-2-con-disipador-termico-para-pc-laptop-y-ps5",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/2256/1_200.jpg?t=1763576327931",
+    "stock": "4 Unid.",
+    "scraped_at": "2025-11-23T21:13:56.217098",
+    "specs": {
+      "id": "2256",
+      "marca": "Kingston FURY",
+      "tipo_de_almacenamiento": "Unidad de Estado Sólido",
+      "capacidad": "500 GB",
+      "interfaz": "PCIe Gen4",
+      "accesorios": "Disipador de Calor",
+      "factor_de_forma": "M.2"
+    },
+    "compatibility": {
+      "interface": "PCIe Gen4"
+    }
+  },
+  {
+    "id": "2669",
+    "name": "Disco SSD 500GB Kingston Fury Renegade PCIe 4.0 M.2 para PC, Laptop y PS5",
+    "brand": "Kingston FURY",
+    "price": 36.0,
+    "regular_price": 499.9,
+    "type": "STORAGE",
+    "url": "https://www.pcfactory.com.pe/producto/2669-kingston-fury-disco-ssd-500gb-kingston-fury-renegade-pcie-4-0-m-2-para-pc-laptop-y-ps5",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/2669/1_200.jpg?t=1763576625978",
+    "stock": "18 Unid.",
+    "scraped_at": "2025-11-23T21:13:56.217686",
+    "specs": {
+      "id": "2669",
+      "marca": "Kingston FURY",
+      "tipo_de_almacenamiento": "Unidad de Estado Sólido",
+      "capacidad": "500 GB",
+      "interfaz": "PCIe Gen4",
+      "accesorios": "Disipador de Calor",
+      "factor_de_forma": "M.2"
+    },
+    "compatibility": {
+      "interface": "PCIe Gen4"
+    }
+  },
+  {
+    "id": "3081",
+    "name": "Disco SSD 500GB Kingston NV3 PCIe Gen4 M.2 Para PC y laptop",
+    "brand": "Kingston",
+    "price": 25.0,
+    "regular_price": 239.9,
+    "type": "STORAGE",
+    "url": "https://www.pcfactory.com.pe/producto/3081-kingston-disco-ssd-500gb-kingston-nv3-pcie-gen4-m-2-para-pc-y-laptop",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/3081/1_200.jpg?t=1743463383452",
+    "stock": "+30 Unid.",
+    "scraped_at": "2025-11-23T21:13:56.218752",
+    "specs": {
+      "id": "3081",
+      "marca": "KINGSTON",
+      "tipo_de_almacenamiento": "Unidad de Estado Sólido",
+      "capacidad": "500 GB",
+      "interfaz": "PCIe Gen4",
+      "accesorios": "No incluye",
+      "factor_de_forma": "M.2"
+    },
+    "compatibility": {
+      "interface": "PCIe Gen4"
+    }
+  },
+  {
+    "id": "2957",
+    "name": "Disco SSD 500GB WD Green SN350 M.2 PCIe Gen3",
+    "brand": "WD",
+    "price": 5.0,
+    "regular_price": 199.9,
+    "type": "STORAGE",
+    "url": "https://www.pcfactory.com.pe/producto/2957-wd-disco-ssd-500gb-wd-green-sn350-m-2-pcie-gen3",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/2957/1_200.jpg?t=1738876986869",
+    "stock": "9 Unid.",
+    "scraped_at": "2025-11-23T21:13:56.219760",
+    "specs": {
+      "id": "2957",
+      "marca": "WD",
+      "tipo_de_almacenamiento": "Unidad de Estado Sólido",
+      "capacidad": "500 GB",
+      "interfaz": "M.2 PCIe Gen3",
+      "factor_de_forma": "M.2"
+    },
+    "compatibility": {
+      "interface": "M.2 PCIe Gen3"
+    }
+  },
+  {
+    "id": "1100",
+    "name": "Disco SSD 960GB Kingston A400 2.5\" SATA",
+    "brand": "Kingston",
+    "price": 18.0,
+    "regular_price": 339.9,
+    "type": "STORAGE",
+    "url": "https://www.pcfactory.com.pe/producto/1100-kingston-disco-ssd-960gb-kingston-a400-2-5-sata",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/1100/1_200.jpg?t=1763575878892",
+    "stock": "26 Unid.",
+    "scraped_at": "2025-11-23T21:13:56.219760",
+    "specs": {
+      "id": "1100",
+      "marca": "Kingston",
+      "tipo_de_almacenamiento": "Unidad de Estado Sólido",
+      "capacidad": "960 GB",
+      "interfaz": "SATA III",
+      "accesorios": "No incluye",
+      "factor_de_forma": "2.5\""
+    },
+    "compatibility": {
+      "interface": "SATA III"
+    }
+  },
+  {
+    "id": "2258",
+    "name": "Unidad SSD Kingston Fury Renegade 2Tb PCIe Gen4 M.2 c/disipador de calor Para PC y PS5",
+    "brand": "Kingston FURY",
+    "price": 20.0,
+    "regular_price": 999.9,
+    "type": "STORAGE",
+    "url": "https://www.pcfactory.com.pe/producto/2258-kingston-fury-unidad-ssd-kingston-fury-renegade-2tb-pcie-gen4-m-2-c-disipador-de-calor-para-pc-y-ps5",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/2258/1_200.jpg?t=1763576332344",
+    "stock": "1 Unid.",
+    "scraped_at": "2025-11-23T21:13:56.220688",
+    "specs": {
+      "id": "2258",
+      "marca": "Kingston FURY",
+      "tipo_de_almacenamiento": "Unidad de Estado Sólido",
+      "capacidad": "2TB",
+      "interfaz": "PCIe Gen4",
+      "accesorios": "Disipador de Calor",
+      "factor_de_forma": "M.2"
+    },
+    "compatibility": {
+      "interface": "PCIe Gen4"
+    }
+  },
+  {
+    "id": "2670",
+    "name": "Unidad SSD Kingston Fury Renegade 2Tb PCIe Gen4 M.2 Para PC, laptop y PS5",
+    "brand": "Kingston FURY",
+    "price": 25.0,
+    "regular_price": 1099.9,
+    "type": "STORAGE",
+    "url": "https://www.pcfactory.com.pe/producto/2670-kingston-fury-unidad-ssd-kingston-fury-renegade-2tb-pcie-gen4-m-2-para-pc-laptop-y-ps5",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/2670/1_200.jpg?t=1763576628058",
+    "stock": "2 Unid.",
+    "scraped_at": "2025-11-23T21:13:56.220688",
+    "specs": {
+      "id": "2670",
+      "marca": "Kingston FURY",
+      "origen": "China",
+      "tipo_de_almacenamiento": "Unidad de Estado Sólido",
+      "capacidad": "2TB",
+      "interfaz": "M.2 PCIe Gen4",
+      "accesorios": "Disipador de Calor",
+      "factor_de_forma": "M.2"
+    },
+    "compatibility": {
+      "interface": "M.2 PCIe Gen4"
+    }
+  },
+  {
+    "id": "2259",
+    "name": "Unidad SSD Kingston Fury Renegade 4Tb PCIe Gen4 M.2 c/disipador de calor Para PC y PS5",
+    "brand": "Kingston FURY",
+    "price": 33.0,
+    "regular_price": 2399.9,
+    "type": "STORAGE",
+    "url": "https://www.pcfactory.com.pe/producto/2259-kingston-fury-unidad-ssd-kingston-fury-renegade-4tb-pcie-gen4-m-2-c-disipador-de-calor-para-pc-y-ps5",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/2259/1_200.jpg?t=1763576334525",
+    "stock": "6 Unid.",
+    "scraped_at": "2025-11-23T21:13:56.221766",
+    "specs": {
+      "id": "2259",
+      "marca": "Kingston FURY",
+      "tipo_de_almacenamiento": "Unidad de Estado Sólido",
+      "capacidad": "4TB",
+      "interfaz": "PCIe Gen4",
+      "accesorios": "Disipador de Calor",
+      "factor_de_forma": "M.2"
+    },
+    "compatibility": {
+      "interface": "PCIe Gen4"
+    }
+  },
+  {
+    "id": "2765",
+    "name": "Unidad SSD Kingston KC3000 1Tb PCIe Gen4 M.2 c/difusor de calor Para PC, laptop",
+    "brand": "Kingston",
+    "price": 25.0,
+    "regular_price": 599.9,
+    "type": "STORAGE",
+    "url": "https://www.pcfactory.com.pe/producto/2765-kingston-unidad-ssd-kingston-kc3000-1tb-pcie-gen4-m-2-c-difusor-de-calor-para-pc-laptop",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/2765/1_200.jpg?t=1763576714318",
+    "stock": "1 Unid.",
+    "scraped_at": "2025-11-23T21:13:56.221766",
+    "specs": {
+      "id": "2765",
+      "marca": "Kingston FURY",
+      "tipo_de_almacenamiento": "Unidad de Estado Sólido",
+      "capacidad": "1024GB",
+      "interfaz": "M.2 PCIe Gen4",
+      "factor_de_forma": "M.2"
+    },
+    "compatibility": {
+      "interface": "M.2 PCIe Gen4"
+    }
+  },
+  {
+    "id": "1249",
+    "name": "Unidad SSD Kingston KC600 2048Gb Sata3 2.5\" Para PC y laptop",
+    "brand": "Kingston",
+    "price": 9.0,
+    "regular_price": 899.9,
+    "type": "STORAGE",
+    "url": "https://www.pcfactory.com.pe/producto/1249-kingston-unidad-ssd-kingston-kc600-2048gb-sata3-2-5-para-pc-y-laptop",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/1249/1_200.jpg?t=1763575974159",
+    "stock": "3 Unid.",
+    "scraped_at": "2025-11-23T21:13:56.222767",
+    "specs": {
+      "id": "1249",
+      "marca": "Kingston",
+      "tipo_de_almacenamiento": "Unidad de Estado Sólido",
+      "capacidad": "2TB",
+      "interfaz": "SATA III",
+      "accesorios": "No incluye",
+      "factor_de_forma": "2.5\""
+    },
+    "compatibility": {
+      "interface": "SATA III"
+    }
+  },
+  {
+    "id": "3734",
+    "name": "Unidad SSD Predator GM7 1Tb PCIe Gen4 M.2 Para PC y laptop",
+    "brand": "PREDATOR",
+    "price": 9.0,
+    "regular_price": 439.9,
+    "type": "STORAGE",
+    "url": "https://www.pcfactory.com.pe/producto/3734-predator-unidad-ssd-predator-gm7-1tb-pcie-gen4-m-2-para-pc-y-laptop",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/3734/1_200.jpg?t=1763577655351",
+    "stock": "2 Unid.",
+    "scraped_at": "2025-11-23T21:13:56.222767",
+    "specs": {
+      "id": "3734",
+      "marca": "PREDATOR",
+      "tipo_de_almacenamiento": "Unidad de Estado Sólido",
+      "capacidad": "1TB",
+      "interfaz": "M.2 PCIe Gen4",
+      "accesorios": "No incluye",
+      "factor_de_forma": "M.2"
+    },
+    "compatibility": {
+      "interface": "M.2 PCIe Gen4"
+    }
+  },
+  {
+    "id": "3755",
+    "name": "Unidad SSD Predator GM7 2Tb PCIe Gen4 M.2 Para PC y laptop",
+    "brand": "PREDATOR",
+    "price": 14.0,
+    "regular_price": 729.9,
+    "type": "STORAGE",
+    "url": "https://www.pcfactory.com.pe/producto/3755-predator-unidad-ssd-predator-gm7-2tb-pcie-gen4-m-2-para-pc-y-laptop",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/3755/1_200.jpg?t=1763577699195",
+    "stock": "2 Unid.",
+    "scraped_at": "2025-11-23T21:13:56.223762",
+    "specs": {
+      "id": "3755",
+      "marca": "PREDATOR",
+      "tipo_de_almacenamiento": "Unidad de Estado Sólido",
+      "capacidad": "2TB",
+      "interfaz": "M.2 PCIe Gen4",
+      "accesorios": "No incluye",
+      "factor_de_forma": "M.2"
+    },
+    "compatibility": {
+      "interface": "M.2 PCIe Gen4"
+    }
+  }
+]

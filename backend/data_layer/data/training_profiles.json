@@ -1,0 +1,418 @@
+[
+  {
+    "id": "gamer_budget",
+    "name": "Gamer Presupuesto",
+    "budget_range": [
+      1000,
+      1500
+    ],
+    "priority_components": [
+      "GPU",
+      "CPU"
+    ],
+    "requirements": {
+      "GPU": {
+        "performance_tier": [
+          "budget",
+          "mid"
+        ],
+        "vram_min": 4
+      },
+      "CPU": {
+        "cores_min": 4,
+        "performance_tier": [
+          "budget",
+          "mid"
+        ]
+      },
+      "RAM": {
+        "capacity_min": 8,
+        "type": [
+          "DDR4",
+          "DDR5"
+        ]
+      },
+      "STORAGE": {
+        "capacity_min": 256,
+        "type": [
+          "SSD",
+          "NVME"
+        ]
+      },
+      "PSU": {
+        "wattage_min": 450
+      },
+      "MOTHERBOARD": {
+        "price_max": 600
+      }
+    }
+  },
+  {
+    "id": "gamer_mid",
+    "name": "Gamer Medio",
+    "budget_range": [
+      1500,
+      2500
+    ],
+    "priority_components": [
+      "GPU",
+      "CPU"
+    ],
+    "requirements": {
+      "GPU": {
+        "performance_tier": [
+          "mid",
+          "high"
+        ],
+        "vram_min": 8
+      },
+      "CPU": {
+        "cores_min": 6,
+        "performance_tier": [
+          "mid",
+          "high"
+        ]
+      },
+      "RAM": {
+        "capacity_min": 16,
+        "type": [
+          "DDR4",
+          "DDR5"
+        ]
+      },
+      "STORAGE": {
+        "capacity_min": 500,
+        "type": [
+          "NVME"
+        ]
+      },
+      "PSU": {
+        "wattage_min": 550
+      },
+      "MOTHERBOARD": {
+        "price_max": 1000
+      }
+    }
+  },
+  {
+    "id": "gamer_high",
+    "name": "Gamer Alto",
+    "budget_range": [
+      2500,
+      4000
+    ],
+    "priority_components": [
+      "GPU",
+      "CPU"
+    ],
+    "requirements": {
+      "GPU": {
+        "performance_tier": [
+          "high",
+          "enthusiast"
+        ],
+        "vram_min": 12
+      },
+      "CPU": {
+        "cores_min": 8,
+        "performance_tier": [
+          "high",
+          "enthusiast"
+        ]
+      },
+      "RAM": {
+        "capacity_min": 16,
+        "type": [
+          "DDR5"
+        ]
+      },
+      "STORAGE": {
+        "capacity_min": 1000,
+        "type": [
+          "NVME"
+        ]
+      },
+      "PSU": {
+        "wattage_min": 650
+      },
+      "MOTHERBOARD": {
+        "price_max": 1500
+      }
+    }
+  },
+  {
+    "id": "developer_budget",
+    "name": "Desarrollador Presupuesto",
+    "budget_range": [
+      800,
+      1200
+    ],
+    "priority_components": [
+      "CPU",
+      "RAM",
+      "STORAGE"
+    ],
+    "requirements": {
+      "CPU": {
+        "cores_min": 4,
+        "performance_tier": [
+          "budget",
+          "mid"
+        ]
+      },
+      "RAM": {
+        "capacity_min": 16,
+        "type": [
+          "DDR4",
+          "DDR5"
+        ]
+      },
+      "STORAGE": {
+        "capacity_min": 500,
+        "type": [
+          "SSD",
+          "NVME"
+        ]
+      },
+      "GPU": {
+        "optional": true
+      },
+      "PSU": {
+        "wattage_min": 400
+      },
+      "MOTHERBOARD": {
+        "price_max": 600
+      }
+    }
+  },
+  {
+    "id": "developer_mid",
+    "name": "Desarrollador Medio",
+    "budget_range": [
+      1500,
+      2500
+    ],
+    "priority_components": [
+      "CPU",
+      "RAM",
+      "STORAGE"
+    ],
+    "requirements": {
+      "CPU": {
+        "cores_min": 8,
+        "performance_tier": [
+          "mid",
+          "high"
+        ]
+      },
+      "RAM": {
+        "capacity_min": 32,
+        "type": [
+          "DDR4",
+          "DDR5"
+        ]
+      },
+      "STORAGE": {
+        "capacity_min": 1000,
+        "type": [
+          "NVME"
+        ]
+      },
+      "GPU": {
+        "optional": true,
+        "performance_tier": [
+          "budget",
+          "mid"
+        ]
+      },
+      "PSU": {
+        "wattage_min": 500
+      },
+      "MOTHERBOARD": {
+        "price_max": 1000
+      }
+    }
+  },
+  {
+    "id": "designer_mid",
+    "name": "Diseñador Medio",
+    "budget_range": [
+      1800,
+      2800
+    ],
+    "priority_components": [
+      "GPU",
+      "CPU",
+      "RAM"
+    ],
+    "requirements": {
+      "GPU": {
+        "performance_tier": [
+          "mid",
+          "high"
+        ],
+        "vram_min": 8
+      },
+      "CPU": {
+        "cores_min": 8,
+        "performance_tier": [
+          "mid",
+          "high"
+        ]
+      },
+      "RAM": {
+        "capacity_min": 32,
+        "type": [
+          "DDR4",
+          "DDR5"
+        ]
+      },
+      "STORAGE": {
+        "capacity_min": 1000,
+        "type": [
+          "NVME"
+        ]
+      },
+      "PSU": {
+        "wattage_min": 550
+      },
+      "MOTHERBOARD": {
+        "price_max": 1200
+      }
+    }
+  },
+  {
+    "id": "designer_high",
+    "name": "Diseñador Alto",
+    "budget_range": [
+      3000,
+      5000
+    ],
+    "priority_components": [
+      "GPU",
+      "CPU",
+      "RAM"
+    ],
+    "requirements": {
+      "GPU": {
+        "performance_tier": [
+          "high",
+          "enthusiast"
+        ],
+        "vram_min": 12
+      },
+      "CPU": {
+        "cores_min": 12,
+        "performance_tier": [
+          "high",
+          "enthusiast"
+        ]
+      },
+      "RAM": {
+        "capacity_min": 32,
+        "type": [
+          "DDR5"
+        ]
+      },
+      "STORAGE": {
+        "capacity_min": 2000,
+        "type": [
+          "NVME"
+        ]
+      },
+      "PSU": {
+        "wattage_min": 750
+      },
+      "MOTHERBOARD": {
+        "price_max": 2000
+      }
+    }
+  },
+  {
+    "id": "office_budget",
+    "name": "Oficina Presupuesto",
+    "budget_range": [
+      500,
+      900
+    ],
+    "priority_components": [
+      "CPU",
+      "RAM"
+    ],
+    "requirements": {
+      "CPU": {
+        "cores_min": 2,
+        "performance_tier": [
+          "budget"
+        ],
+        "has_igpu": true
+      },
+      "RAM": {
+        "capacity_min": 8,
+        "type": [
+          "DDR4"
+        ]
+      },
+      "STORAGE": {
+        "capacity_min": 256,
+        "type": [
+          "SSD"
+        ]
+      },
+      "GPU": {
+        "optional": true
+      },
+      "PSU": {
+        "wattage_min": 350
+      },
+      "MOTHERBOARD": {
+        "price_max": 400
+      }
+    }
+  },
+  {
+    "id": "student_budget",
+    "name": "Estudiante Presupuesto",
+    "budget_range": [
+      600,
+      1100
+    ],
+    "priority_components": [
+      "CPU",
+      "RAM"
+    ],
+    "requirements": {
+      "CPU": {
+        "cores_min": 4,
+        "performance_tier": [
+          "budget",
+          "mid"
+        ]
+      },
+      "RAM": {
+        "capacity_min": 8,
+        "type": [
+          "DDR4"
+        ]
+      },
+      "STORAGE": {
+        "capacity_min": 256,
+        "type": [
+          "SSD"
+        ]
+      },
+      "GPU": {
+        "optional": true,
+        "performance_tier": [
+          "budget"
+        ]
+      },
+      "PSU": {
+        "wattage_min": 400
+      },
+      "MOTHERBOARD": {
+        "price_max": 500
+      }
+    }
+  }
+]

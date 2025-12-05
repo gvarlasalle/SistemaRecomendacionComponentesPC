@@ -1,0 +1,145 @@
+{
+  "recommendation_models": {
+    "results": {
+      "rule": {
+        "model_type": "rule",
+        "rating_metrics": {
+          "mse": 0.2313888888888889,
+          "mae": 0.27361111111111114,
+          "rmse": 0.48102898965539376
+        },
+        "ranking_metrics": {
+          "precision@k": 0.3111111111111111,
+          "recall@k": 0.12005235168775948,
+          "ndcg@k": 0.31082280574506926
+        }
+      },
+      "ncf": {
+        "model_type": "ncf",
+        "rating_metrics": {
+          "mse": 0.6847849212468504,
+          "mae": 0.600456463959482,
+          "rmse": 0.8275173238348853
+        },
+        "ranking_metrics": {
+          "precision@k": 0.43333333333333335,
+          "recall@k": 0.17820097345530705,
+          "ndcg@k": 0.43583397328307155
+        }
+      },
+      "mf": {
+        "model_type": "mf",
+        "rating_metrics": {
+          "mse": 0.10483935139777333,
+          "mae": 0.14305204757385784,
+          "rmse": 0.32378905385725026
+        },
+        "ranking_metrics": {
+          "precision@k": 0.9666666666666666,
+          "recall@k": 0.39009231272658385,
+          "ndcg@k": 0.9703508420992899
+        }
+      },
+      "deepfm": {
+        "model_type": "deepfm",
+        "rating_metrics": {
+          "mse": 0.5216576025072206,
+          "mae": 0.5318938189082676,
+          "rmse": 0.7222586811573957
+        },
+        "ranking_metrics": {
+          "precision@k": 0.4555555555555555,
+          "recall@k": 0.1830103631751827,
+          "ndcg@k": 0.45350743413687933
+        }
+      }
+    },
+    "best_model": "mf"
+  },
+  "conversational_models": {
+    "results": {
+      "rule_based": {
+        "parser_name": "rule_based",
+        "budget_accuracy": 1.0,
+        "use_case_accuracy": 1.0,
+        "profile_accuracy": 0.875,
+        "overall_accuracy": 0.9583333333333334,
+        "budget_errors": [],
+        "use_case_errors": [],
+        "profile_errors": [
+          {
+            "message": "Computadora para dise\u00f1o gr\u00e1fico con Photoshop, 2500 soles",
+            "expected": "designer_mid",
+            "got": "designer_high"
+          }
+        ]
+      },
+      "spacy": {
+        "parser_name": "spacy",
+        "budget_accuracy": 1.0,
+        "use_case_accuracy": 1.0,
+        "profile_accuracy": 0.875,
+        "overall_accuracy": 0.9583333333333334,
+        "budget_errors": [],
+        "use_case_errors": [],
+        "profile_errors": [
+          {
+            "message": "Computadora para dise\u00f1o gr\u00e1fico con Photoshop, 2500 soles",
+            "expected": "designer_mid",
+            "got": "designer_high"
+          }
+        ]
+      },
+      "embedding": {
+        "parser_name": "embedding",
+        "budget_accuracy": 1.0,
+        "use_case_accuracy": 0.75,
+        "profile_accuracy": 0.625,
+        "overall_accuracy": 0.7916666666666666,
+        "budget_errors": [],
+        "use_case_errors": [
+          {
+            "message": "PC para programar Python y machine learning, presupuesto 1800 soles",
+            "expected": [
+              "development"
+            ],
+            "got": [
+              "gaming"
+            ]
+          },
+          {
+            "message": "PC para desarrollo web con JavaScript y React, 1500 soles",
+            "expected": [
+              "development"
+            ],
+            "got": [
+              "gaming"
+            ]
+          }
+        ],
+        "profile_errors": [
+          {
+            "message": "PC para programar Python y machine learning, presupuesto 1800 soles",
+            "expected": "developer_mid",
+            "got": "gamer_mid"
+          },
+          {
+            "message": "Computadora para dise\u00f1o gr\u00e1fico con Photoshop, 2500 soles",
+            "expected": "designer_mid",
+            "got": "gamer_high"
+          },
+          {
+            "message": "PC para desarrollo web con JavaScript y React, 1500 soles",
+            "expected": "developer_mid",
+            "got": "gamer_mid"
+          }
+        ]
+      }
+    },
+    "best_parser": "rule_based"
+  },
+  "recommendations": {
+    "best_recommendation_model": "mf",
+    "best_conversational_model": "rule_based"
+  }
+}

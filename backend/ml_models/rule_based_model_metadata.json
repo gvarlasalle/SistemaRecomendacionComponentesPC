@@ -1,0 +1,6 @@
+{
+  "model_type": "RuleBasedRecommender",
+  "num_components": 314,
+  "num_profiles": 9,
+  "description": "Recomendador basado en reglas de compatibilidad y scoring de features"
+}

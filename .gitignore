@@ -1,0 +1,69 @@
+# ---- Carpetas de entornos virtuales ----
+venv/
+.venv/
+*/venv/
+*/.venv/
+
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+dist/
+build/
+
+# ---- Archivos de dependencias compiladas ----
+*.so
+*.dll
+*.dylib
+
+# ---- VirtualEnv metadata ----
+pip-selfcheck.json
+
+# ---- Jupyter / IPython ----
+.ipynb_checkpoints/
+
+# ---- Logs ----
+*.log
+
+# ---- Archivos temporales ----
+*.tmp
+*.temp
+*.cache/
+.cache/
+
+# ---- Configuración de IDEs ----
+.vscode/
+.idea/
+*.iml
+
+# ---- Sistema operativo ----
+# Windows
+Thumbs.db
+Desktop.ini
+# macOS
+.DS_Store
+# Linux
+*.swp
+*.swo
+
+# ---- Node / Frontend (si tienes un frontend) ----
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# ---- Django / Flask / FastAPI (si aplica) ----
+*.sqlite3
+.env
+.env.local
+.env.*.local
+
+# ---- Archivos grandes accidentales ----
+*.bin
+*.tar
+*.gz
+*.zip
+*.7z

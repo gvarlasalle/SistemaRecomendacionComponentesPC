@@ -1,0 +1,387 @@
+[
+  {
+    "id": "1226",
+    "name": "Memoria RAM DDR3 4Gb 1600Mhz marca Kingston KVR para PC",
+    "brand": "Kingston",
+    "price": 15.0,
+    "regular_price": 99.9,
+    "type": "RAM",
+    "url": "https://www.pcfactory.com.pe/producto/1226-kingston-memoria-ram-ddr3-4gb-1600mhz-marca-kingston-kvr-para-pc",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/1226/1_200.jpg?t=1745443864567",
+    "stock": "3 Unid.",
+    "scraped_at": "2025-11-23T21:02:24.399029",
+    "specs": {
+      "id": "1226",
+      "marca": "Kingston",
+      "tipo_de_memoria": "DDR3 DIMM",
+      "capacidad": "4GB",
+      "formato": "1",
+      "frecuencia": "1600 MHz",
+      "latencia": "CL11",
+      "configuración": "Single Channel",
+      "voltaje": "1.35-1.5V",
+      "soporte_xmp": "No incluye",
+      "disipador_de_calor": "No incluye"
+    },
+    "compatibility": {
+      "ram_type": ""
+    }
+  },
+  {
+    "id": "1229",
+    "name": "Memoria RAM DDR3 8Gb 1600Mhz marca Kingston KVR para PC",
+    "brand": "Kingston",
+    "price": 17.0,
+    "regular_price": 179.9,
+    "type": "RAM",
+    "url": "https://www.pcfactory.com.pe/producto/1229-kingston-memoria-ram-ddr3-8gb-1600mhz-marca-kingston-kvr-para-pc",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/1229/1_200.jpg?t=1729698926232",
+    "stock": "2 Unid.",
+    "scraped_at": "2025-11-23T21:02:24.399029",
+    "specs": {
+      "id": "1229",
+      "marca": "Kingston",
+      "tipo_de_memoria": "DDR3 DIMM",
+      "capacidad": "8GB",
+      "formato": "1",
+      "frecuencia": "1600 MHz",
+      "latencia": "CL11",
+      "configuración": "Single Channel",
+      "voltaje": "1.35-1.5V",
+      "soporte_xmp": "No incluye",
+      "disipador_de_calor": "No incluye"
+    },
+    "compatibility": {
+      "ram_type": ""
+    }
+  },
+  {
+    "id": "3688",
+    "name": "Memoria RAM DDR4 16GB 3200MT/s CL16 Kingston Fury Beast",
+    "brand": "Kingston FURY",
+    "price": 17.0,
+    "regular_price": 299.9,
+    "type": "RAM",
+    "url": "https://www.pcfactory.com.pe/producto/3688-kingston-fury-memoria-ram-ddr4-16gb-3200mt-s-cl16-kingston-fury-beast",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/3688/1_200.jpg?t=1749317380188",
+    "stock": "+50 Unid.",
+    "scraped_at": "2025-11-23T21:02:24.399029",
+    "specs": {
+      "id": "3688",
+      "marca": "Kingston FURY",
+      "tipo_de_memoria": "DDR4 DIMM",
+      "capacidad": "16GB",
+      "formato": "1",
+      "frecuencia": "3200 MHz",
+      "latencia": "CL16",
+      "configuración": "Single Channel",
+      "voltaje": "1.35V",
+      "soporte_xmp": "Sí",
+      "disipador_de_calor": "Sí"
+    },
+    "compatibility": {
+      "ram_type": ""
+    }
+  },
+  {
+    "id": "3082",
+    "name": "Memoria RAM DDR4 16GB 3200MT/s CL16 RGB Kingston Fury Beast",
+    "brand": "Kingston FURY",
+    "price": 17.0,
+    "regular_price": 239.9,
+    "type": "RAM",
+    "url": "https://www.pcfactory.com.pe/producto/3082-kingston-fury-memoria-ram-ddr4-16gb-3200mt-s-cl16-rgb-kingston-fury-beast",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/3082/1_200.jpg?t=1728446468545",
+    "stock": "1 Unid.",
+    "scraped_at": "2025-11-23T21:02:24.399029",
+    "specs": {
+      "id": "3082",
+      "marca": "Kingston FURY",
+      "origen": "China",
+      "tipo_de_memoria": "DDR4 DIMM",
+      "capacidad": "16GB",
+      "formato": "1",
+      "frecuencia": "3200 MHz",
+      "latencia": "17-17-17",
+      "configuración": "Single Channel",
+      "voltaje": "1.2V",
+      "soporte_xmp": "Sí",
+      "disipador_de_calor": "Sí"
+    },
+    "compatibility": {
+      "ram_type": ""
+    }
+  },
+  {
+    "id": "3711",
+    "name": "Memoria RAM DDR4 16GB 3200MT/s CL22 Patriot Signature Premium",
+    "brand": "Patriot Memory",
+    "price": 6.0,
+    "regular_price": 159.9,
+    "type": "RAM",
+    "url": "https://www.pcfactory.com.pe/producto/3711-patriot-memory-memoria-ram-ddr4-16gb-3200mt-s-cl22-patriot-signature-premium",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/3711/1_200.jpg?t=1748374410593",
+    "stock": "2 Unid.",
+    "scraped_at": "2025-11-23T21:02:24.399029",
+    "specs": {
+      "id": "3711",
+      "marca": "Patriot Memory",
+      "tipo_de_memoria": "DDR4 DIMM",
+      "capacidad": "16GB",
+      "formato": "1",
+      "frecuencia": "3200 MHz",
+      "latencia": "CL22",
+      "configuración": "Single Channel",
+      "voltaje": "1.2V",
+      "disipador_de_calor": "Sí"
+    },
+    "compatibility": {
+      "ram_type": ""
+    }
+  },
+  {
+    "id": "1600",
+    "name": "Memoria RAM DDR4 8Gb 3200Mhz marca HP V6 Series Black para PC",
+    "brand": "HP",
+    "price": 31.0,
+    "regular_price": 129.9,
+    "type": "RAM",
+    "url": "https://www.pcfactory.com.pe/producto/1600-hp-memoria-ram-ddr4-8gb-3200mhz-marca-hp-v6-series-black-para-pc",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/1600/1_200.jpg?t=1729699526157",
+    "stock": "1 Unid.",
+    "scraped_at": "2025-11-23T21:02:24.399029",
+    "specs": {
+      "id": "1600",
+      "marca": "HP",
+      "tipo_de_memoria": "DDR4 DIMM",
+      "capacidad": "8GB",
+      "formato": "1",
+      "frecuencia": "3200 MHz",
+      "latencia": "CL16",
+      "voltaje": "1.35V",
+      "disipador_de_calor": "Sí"
+    },
+    "compatibility": {
+      "ram_type": ""
+    }
+  },
+  {
+    "id": "1228",
+    "name": "Memoria RAM DDR4 8GB 3200MT/s CL16 Kingston Fury Beast",
+    "brand": "Kingston FURY",
+    "price": 27.0,
+    "regular_price": 149.9,
+    "type": "RAM",
+    "url": "https://www.pcfactory.com.pe/producto/1228-kingston-fury-memoria-ram-ddr4-8gb-3200mt-s-cl16-kingston-fury-beast",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/1228/1_200.jpg?t=1729698924486",
+    "stock": "2 Unid.",
+    "scraped_at": "2025-11-23T21:02:24.399029",
+    "specs": {
+      "id": "1228",
+      "marca": "Kingston FURY",
+      "tipo_de_memoria": "DDR4 DIMM",
+      "capacidad": "8GB",
+      "formato": "1",
+      "frecuencia": "3200 MHz",
+      "latencia": "CL16",
+      "configuración": "Single Channel",
+      "voltaje": "1.3-1.35V",
+      "soporte_xmp": "Sí",
+      "disipador_de_calor": "Sí"
+    },
+    "compatibility": {
+      "ram_type": ""
+    }
+  },
+  {
+    "id": "2668",
+    "name": "Memoria RAM DDR4 8GB 3200MT/s CL16 RGB Kingston Fury Beast",
+    "brand": "Kingston FURY",
+    "price": 29.0,
+    "regular_price": 169.9,
+    "type": "RAM",
+    "url": "https://www.pcfactory.com.pe/producto/2668-kingston-fury-memoria-ram-ddr4-8gb-3200mt-s-cl16-rgb-kingston-fury-beast",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/2668/1_200.jpg?t=1738876473850",
+    "stock": "1 Unid.",
+    "scraped_at": "2025-11-23T21:02:24.399029",
+    "specs": {
+      "id": "2668",
+      "marca": "Kingston FURY",
+      "origen": "China",
+      "tipo_de_memoria": "DDR4 DIMM",
+      "capacidad": "8GB",
+      "frecuencia": "3200 MHz",
+      "latencia": "17-19-19-38",
+      "configuración": "Single Channel",
+      "voltaje": "1.2V",
+      "soporte_xmp": "No incluye",
+      "disipador_de_calor": "Sí"
+    },
+    "compatibility": {
+      "ram_type": ""
+    }
+  },
+  {
+    "id": "4045",
+    "name": "Memoria RAM DDR4 8GB 3200MT/s CL16 TeamGroup Vulcan",
+    "brand": "TeamGroup",
+    "price": 15.0,
+    "regular_price": 129.9,
+    "type": "RAM",
+    "url": "https://www.pcfactory.com.pe/producto/4045-teamgroup-memoria-ram-ddr4-8gb-3200mt-s-cl16-teamgroup-vulcan",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/4045/1_200.jpg?t=1757623543224",
+    "stock": "17 Unid.",
+    "scraped_at": "2025-11-23T21:02:24.399029",
+    "specs": {
+      "id": "4045",
+      "marca": "TeamGroup",
+      "tipo_de_memoria": "DDR4 DIMM",
+      "capacidad": "8GB",
+      "formato": "1",
+      "frecuencia": "3200 MHz",
+      "latencia": "CL16",
+      "configuración": "Single Channel",
+      "voltaje": "1.35V",
+      "soporte_xmp": "Sí",
+      "disipador_de_calor": "Sí"
+    },
+    "compatibility": {
+      "ram_type": ""
+    }
+  },
+  {
+    "id": "2625",
+    "name": "Memoria RAM DDR5 16Gb 5200MT/s marca Adata LANCER Black para PC (soporta Intel XMP 3.0 y AMD EXPO)",
+    "brand": "Adata",
+    "price": 19.0,
+    "regular_price": 799.9,
+    "type": "RAM",
+    "url": "https://www.pcfactory.com.pe/producto/2625-adata-memoria-ram-ddr5-16gb-5200mt-s-marca-adata-lancer-black-para-pc-soporta-intel-xmp-3-0-y-amd-expo",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/2625/1_200.jpg?t=1763576602503",
+    "stock": "10 Unid.",
+    "scraped_at": "2025-11-23T21:02:24.399029",
+    "specs": {
+      "id": "2625",
+      "marca": "Adata",
+      "tipo_de_memoria": "DDR5 DIMM",
+      "capacidad": "16GB",
+      "formato": "1",
+      "frecuencia": "5200 MHz",
+      "latencia": "38-38-38"
+    },
+    "compatibility": {
+      "ram_type": ""
+    }
+  },
+  {
+    "id": "2771",
+    "name": "Memoria RAM DDR5 16GB 5600MT/s CL40 Kingston Fury Beast",
+    "brand": "Kingston FURY",
+    "price": 17.0,
+    "regular_price": 299.9,
+    "type": "RAM",
+    "url": "https://www.pcfactory.com.pe/producto/2771-kingston-fury-memoria-ram-ddr5-16gb-5600mt-s-cl40-kingston-fury-beast",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/2771/1_200.jpg?t=1763576718528",
+    "stock": "9 Unid.",
+    "scraped_at": "2025-11-23T21:02:24.399029",
+    "specs": {
+      "id": "2771",
+      "marca": "Kingston FURY",
+      "origen": "Taiwan",
+      "tipo_de_memoria": "DDR5 DIMM",
+      "capacidad": "16GB",
+      "formato": "1",
+      "frecuencia": "5600 MHz",
+      "latencia": "CL40",
+      "configuración": "Single Channel",
+      "voltaje": "1.25V",
+      "soporte_xmp": "Sí",
+      "disipador_de_calor": "Sí"
+    },
+    "compatibility": {
+      "ram_type": ""
+    }
+  },
+  {
+    "id": "3689",
+    "name": "Memoria RAM DDR5 16Gb 5600MT/s CL40 RGB Kingston Fury Beast",
+    "brand": "Kingston FURY",
+    "price": 7.0,
+    "regular_price": 299.9,
+    "type": "RAM",
+    "url": "https://www.pcfactory.com.pe/producto/3689-kingston-fury-memoria-ram-ddr5-16gb-5600mt-s-cl40-rgb-kingston-fury-beast",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/3689/1_200.jpg?t=1763577560247",
+    "stock": "2 Unid.",
+    "scraped_at": "2025-11-23T21:02:24.399029",
+    "specs": {
+      "id": "3689",
+      "marca": "Kingston FURY",
+      "tipo_de_memoria": "DDR5 DIMM",
+      "capacidad": "16GB",
+      "formato": "1",
+      "frecuencia": "5600 MHz",
+      "latencia": "CL40",
+      "configuración": "Single Channel",
+      "voltaje": "1.25V",
+      "soporte_xmp": "Sí",
+      "disipador_de_calor": "Sí"
+    },
+    "compatibility": {
+      "ram_type": ""
+    }
+  },
+  {
+    "id": "2626",
+    "name": "Memoria RAM DDR5 32Gb (2x16) 5200MT/s marca TeamGroup Vulcan Z Red para PC (soporta Intel XMP 3.0)",
+    "brand": "TeamGroup",
+    "price": 27.0,
+    "regular_price": 1499.9,
+    "type": "RAM",
+    "url": "https://www.pcfactory.com.pe/producto/2626-teamgroup-memoria-ram-ddr5-32gb-2x16-5200mt-s-marca-teamgroup-vulcan-z-red-para-pc-soporta-intel-xmp-3-0",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/2626/1_200.jpg?t=1763576604563",
+    "stock": "5 Unid.",
+    "scraped_at": "2025-11-23T21:02:24.399029",
+    "specs": {
+      "id": "2626",
+      "marca": "TeamGroup",
+      "tipo_de_memoria": "DDR5 DIMM",
+      "capacidad": "32GB",
+      "formato": "2",
+      "frecuencia": "5200 MHz",
+      "latencia": "40-40-40-76",
+      "voltaje": "1.25V"
+    },
+    "compatibility": {
+      "ram_type": ""
+    }
+  },
+  {
+    "id": "3217",
+    "name": "Memoria RAM DDR5 8GB 5600MT/s CL40 Kingston Fury Beast",
+    "brand": "Kingston FURY",
+    "price": 18.0,
+    "regular_price": 169.9,
+    "type": "RAM",
+    "url": "https://www.pcfactory.com.pe/producto/3217-kingston-fury-memoria-ram-ddr5-8gb-5600mt-s-cl40-kingston-fury-beast",
+    "image_url": "https://www.pcfactory.com.pe/public/foto/3217/1_200.jpg?t=1731738899531",
+    "stock": "+50 Unid.",
+    "scraped_at": "2025-11-23T21:02:24.399029",
+    "specs": {
+      "id": "3217",
+      "marca": "Kingston FURY",
+      "origen": "China",
+      "tipo_de_memoria": "DDR5 DIMM",
+      "capacidad": "8GB",
+      "formato": "1",
+      "frecuencia": "5600 MHz",
+      "latencia": "CL40",
+      "configuración": "Single Channel",
+      "voltaje": "1.25V",
+      "soporte_xmp": "Sí",
+      "disipador_de_calor": "Sí"
+    },
+    "compatibility": {
+      "ram_type": ""
+    }
+  }
+]

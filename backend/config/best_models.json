@@ -1,0 +1,7 @@
+{
+  "recommendation_model": "mf",
+  "conversational_model": "rule_based",
+  "last_updated": "2024-01-01",
+  "notes": "Mejores modelos determinados por evaluación automática. Actualizar ejecutando evaluate_all_models.py"
+}
+
